@@ -26,7 +26,7 @@ First, fork the reposition and clone it to your local machine, them open the fil
 ```
 
 ## Output
-![Alt text](pds.png)
+![output screenshot](pds.png)
 
 ### Recommandation
 This assignment turned out to be a great exercise on data processing. Although the assignment has a good structure, it could be more clear. On most coding exercises, we were presented with an expected output, I think a lot of questions could be answered by adding an expected output image.
